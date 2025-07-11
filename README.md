@@ -5,8 +5,6 @@ Static website made with HTML, CSS, JS and Bootstrap
 ## Table of Contents
 
 - [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Customization](#customization)
 
 ## Demo
