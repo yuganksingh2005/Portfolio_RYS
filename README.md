@@ -8,7 +8,9 @@ Static website made with HTML, CSS, JS and Bootstrap
 - [Customization](#customization)
 
 ## Demo
-[Demo](https://github.com/yuganksingh2005/Portfolio_RYS.git)
+[Demo]https://yuganksingh2005.github.io/Portfolio_RYS/
+
+https://yuganksingh2005.github.io/Portfolio_RYS/
 
 ## Customization
 
