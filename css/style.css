@@ -9756,3 +9756,13 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+.profile-photo {
+    width: 100%;
+    height: auto;
+    max-height: 520px;
+    object-fit: contain;
+    object-position: center top;
+    display: block;
+}
